@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# 네이버 검색로봇 (Yeti)
+User-agent: Yeti
+Allow: /
+
+Sitemap: https://beforehomecare.github.io/sitemap.xml
